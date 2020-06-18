@@ -27,6 +27,6 @@
 </tr>
 <tr>
    <td style="border:1px solid red;">6</td>
-   <td style="border:1px solid red;">Aller dans le repertoire gbs_gcr1\bin\Debug et ouvrir le fichier gbs_gcr1.exe</td>
+   <td style="border:1px solid red;">Aller dans le repertoire gsb\bin\Debug et ouvrir le fichier gbs_gcr1.exe</td>
 </tr>
 </table>
