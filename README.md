@@ -23,6 +23,6 @@
 </tr>
 <tr>
    <td style="border:1px solid red;">5</td>
-   <td style="border:1px solid red;">Aller dans le repertoire gbs_gcr1 et ouvrir le fichier gbs_gcr1.sln avec visual studio de préférence 2020</td>
+   <td style="border:1px solid red;">Aller dans le repertoire gbs_gcr1\bin\Debug et ouvrir le fichier gbs_gcr1.exe</td>
 </tr>
 </table>
