@@ -1,7 +1,5 @@
 # gsb_compte_rendu
 <h1>Application de gsb_compte rendu BTS SIO SLAM 2020</h1>
-<h3>Lien pour la documentation technique</h3>
-<a href="url">link text</a>
 <h3>Lien pour la Fiche descriptive</h3>
 <a href="https://drive.google.com/file/d/1UQy6X6LJFo0sSsJ9rWVoZ9vmCZ4Df-16/view?usp=sharing">Fiche descriptive</a>
 <h3>Lien pour le tableau E6</h3>
