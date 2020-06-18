@@ -6,8 +6,10 @@
 <a href="url">https://drive.google.com/file/d/1UQy6X6LJFo0sSsJ9rWVoZ9vmCZ4Df-16/view?usp=sharing</a>
 <h3>Lien pour le tableau E6</h3>
 <a href="url">https://drive.google.com/file/d/1_sCZe7UPoLzwSDktYMBEpWbyFH2LElnp/view?usp=sharing</a>
-<h3>Lien pour le tableau E4</h3>
+<h3>Lien pour Documentation</h3>
 <a href="url">https://drive.google.com/file/d/1a4EwcopkEJ_HDqoFkrBjV5x8Fm7zF78p/view?usp=sharing</a>
+<h3>Lien portfolio</h3>
+<a href="url">https://portfolio.mirai.ovh/</a>
 <table style="border:1px solid black;">
 <tr>
    <th style="border:1px solid red;">Step Number</th>
